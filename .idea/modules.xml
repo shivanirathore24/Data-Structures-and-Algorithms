@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays Part-1/Arrays Part-1.iml" filepath="$PROJECT_DIR$/Arrays Part-1/Arrays Part-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns Part-1/Patterns Part-1.iml" filepath="$PROJECT_DIR$/Patterns Part-1/Patterns Part-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns Part-2/Patterns Part-2.iml" filepath="$PROJECT_DIR$/Patterns Part-2/Patterns Part-2.iml" />
