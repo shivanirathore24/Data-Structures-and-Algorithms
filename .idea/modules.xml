@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeComplexity/TimeComplexity.iml" filepath="$PROJECT_DIR$/TimeComplexity/TimeComplexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriesHuffmanCoding/TriesHuffmanCoding.iml" filepath="$PROJECT_DIR$/TriesHuffmanCoding/TriesHuffmanCoding.iml" />
     </modules>
   </component>
 </project>
